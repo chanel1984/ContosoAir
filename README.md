@@ -1,6 +1,5 @@
 [![Build Status](https://dev.azure.com/kaiclee/ContosoAir/_apis/build/status/chanel1984.ContosoAir?branchName=master)](https://dev.azure.com/kaiclee/ContosoAir/_build/latest?definitionId=18&branchName=master)
 
-for testing only
 # Microsoft.Github CI Demo 
 
 Demo website application for Contoso Air. 
